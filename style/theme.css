@@ -1,0 +1,439 @@
+body{
+	background-color: #ebebeb !important;
+}
+
+
+*{
+	margin: 0;
+}
+
+.header
+
+	{
+		
+		background-color: #5c0931 !important;
+		line-height: 1.7;
+        padding: 20px !important;
+		color: #fff !important;
+	}
+
+
+	   	   
+
+
+a {
+	text-decoration:none;
+}
+.logo-name{
+color: #fff !important;}
+
+.menu ul li a {
+	color: #fff !important;
+	
+	
+}
+.menu ul li a:hover{
+color:orange;}
+
+.dpmen{
+color: #fff !important;
+background-color: #5c0931 !important;
+
+}
+.dpmen li{
+	border-bottom:1px dotted #fff !important;
+}
+.dpmen li a{
+background-color: #5c0931 !important;}
+
+
+
+
+.services_info h3{
+	text-align:center;
+	font-size:25px;
+	margin:10px 8px;
+	
+}
+#info{
+	
+	
+	height: 400px;
+	margin-top: 50px;
+	
+}
+.services_info p{ 
+   text-align:center;
+}
+
+
+.services_info{
+	margin-top: 50px;
+	float:left;
+	
+	
+}
+
+.services_area{
+    text-align: center;
+	display:block;
+    padding-bottom: 10 10 10 30px;
+    
+}
+h2{
+	text-align:center;
+}
+.services_info i{
+	text-align:center;
+	font-size:45px;
+	line-height:50px;
+	
+}
+.services_info i:hover{
+	color:orange;
+	
+}
+.color1 {
+	background-color:#EDE8E7;
+}
+.clear-float {
+	clear:both;
+	height:100px;
+	padding-top:50px;
+}
+.how{
+	float:left;
+	position:relative;
+	left:20px;
+	width:800px;
+}
+.googlem {
+	float:right;
+}
+.copy_right{
+	text-align:center;
+	color:black;
+
+}
+
+footer {
+	      height:425px;
+		  width:100%;
+		  background-color:#5c0931 !important; 
+		  color:white;
+		  padding:30px;
+		  text-decoration:none;
+		  
+       }
+   
+.footer a
+
+	{
+		text-decoration: none !important;
+	}
+.things{
+		   text-decoration:none;
+	   }
+	   .col-3 h6 {
+		   padding-top:40px;
+		   
+	   }
+.copy_right p
+
+	{
+		color:black; 
+		text-decoration: none;
+	}
+
+
+.pro{
+		padding: 20px;
+	}
+.copyright  a{
+	            text-decoration:none;
+	                color:#ffa903 !important;
+}
+
+.pro p a {
+	color: white;
+}
+.software {
+	text-decoration:none;
+	color:#ffa903 !important;
+}
+.profile_img{
+              height:150px;
+			  float:right;
+}
+ h1{
+	         padding-top:50;
+			 color:#5c0931 !important;
+			 
+			 
+}
+h2{
+	text-align:left;
+}
+
+.contact_about h2{
+	          padding:30px;
+			  color:#5c0931 !important;
+}
+.map_section iframe
+
+	{
+			  
+			  border: 1px solid red;
+			  width: 75%;
+			  height: 400px;
+			  float:right;
+	}
+.contact-items{
+	          text-align:center;
+			  padding:30px;
+}
+.contact-items li{
+             display:inline-block;
+			 
+}
+.icons{
+	color:#5c0931 !important;
+}
+.form-setting label {
+          
+		  padding-right:10px;
+		  padding-bottom:5px;
+		  padding-left:5px;
+		  margin:-5px;
+}
+.info-section {
+                    height:250px;  
+}
+.form-end{ 
+        float:right;
+		padding-top:20px;
+}
+.form-setting {
+	padding:20px;
+}
+
+.client_header
+
+	{
+		
+		 height:100px;
+		  width:100%;
+		  
+		  background-color:#5c0931 !important; 
+		padding: 20px ;
+	}
+	
+
+.client_header h1
+	
+	{
+		font-weight: 500;
+		font-size: 37px;
+	}
+	
+	.signin_header {
+		padding-top:none;
+		height: 100px;
+	   }
+	   
+	.signin_header h1 {
+		padding: 0;
+	}
+	.form_body{
+	     background-color:white;
+		 margin-top:30px;
+		 margin-right:5px;
+		 margin-left:250px;
+		 margin-bottom:100px;
+		 width:100%;
+         padding-right: 25px;
+         padding-left: 25px;
+	     padding-top:40px;
+		 padding-bottom:30px;
+		 height:550px;
+	}
+	.signin1{
+		padding-top:15px;
+		padding-right:15px;
+		padding-bottom:10px;
+		padding-left:10px;
+	}
+	.signin1 label{
+		padding-bottom:10px;
+	}
+ 
+.form_section a.signup_btn{
+	color:#ffa903 !important;
+	text-decoration:none;
+}
+.signup_n a {
+    color: #ffa903 !important;
+    font-weight: 500;
+	text-decoration:none;
+}
+#myBtn {
+    background-color: #ffa903 !important;
+    color: pink !important;
+    outline: none;
+    transition: 0.5s all;
+    padding: 5px;
+	margin-top:auto;
+	margin-left:320px;
+	text-align:center;
+	font-size:18px;
+	width: 70px;
+
+	
+}
+.myBtn:hover
+{
+ background-color:#5c0931 !important;	
+ color: #fff;
+}
+  /* display: inline-block;
+    font-weight: 400;
+    color: #212529;
+    text-align: center;
+    vertical-align: middle; */
+	.signup_form_section{
+	      padding:50px;
+		 margin:20px 75px;
+		  	}
+.form-group{
+	padding:2px;
+	margin:10px auto;
+}
+.signup-btn{
+	color:#ffa903 !important;
+	text-decoration:none;
+}
+.border-pic{
+	width:40%;
+	height:150px;
+}
+.page_data{
+        background-color:#ebebeb !important;
+		padding: 70px;
+        margin-top: 5px;
+}
+.develoment_header{
+	
+	
+	margin-bottom:40px;
+}
+.develoment_header img{
+	
+
+	margin-top: 70px;
+}
+.graphic_header{
+          
+		  margin-top:45px;
+
+}
+
+.graphic_header h3
+
+	{
+		color:#5c0931 !important;
+	}
+.software_header{
+	   margin-top:40px;
+}
+.software_header h3{
+	color:#5c0931 !important;
+}
+.software_development img{
+	border:1px solid red;
+	margin-top:90px;
+	
+}
+.android_header{
+	margin-top:40px;
+}
+.android_header h3{
+	color:#5c0931 !important;
+}
+.android_header img{
+	
+	
+	height:200px;
+	width:350px;
+	margin-top:90px;
+}
+.our-projects h2{
+	text-align:center;
+	color:#5c0931 !important;
+}
+.div_1{
+     
+	 padding:10px;
+	 
+}
+.div_1 h3{
+  color:#5c0931 !important;
+}
+.signup_header h1{
+       
+	   text-align:center;
+
+}
+.signup-body h1{
+	    text-align:center;
+}
+.div_1{
+     
+	 padding:4px;
+	
+	 
+}
+.div_2 h3{
+   color:#5c0931 !important;
+}
+.background-image{
+	background-image: url(../images/info_back.jpg);
+	padding:10px;
+}
+.signup-body .container{
+	weight:600px;
+}
+#myBto{
+ background-color: #ffa903 !important;
+    color: pink !important;
+    outline: none;
+    transition: 0.5s all;
+    padding: 5px;
+	margin-top:auto;
+	margin-left:250px;
+	text-align:center;
+	font-size:18px;
+	width: 90px;
+}
+.contact_about h3{
+color: #5c0931 !important;
+}
+.container h1{
+	text-align:center;
+	margin-top:50px;
+}
+.contact_divider img{
+	height:300px;
+	width:90%;
+}
+.form_body label{
+	margin-bottom:10px;
+}
+.form_body .gender{
+	margin-left:15px;
+}
+.head1 {
+text-align:center;
+
+}
+.profile_heading{
+	margin-top:5px;
